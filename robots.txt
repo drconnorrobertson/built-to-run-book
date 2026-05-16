@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://builttorunbook.com/sitemap.xml
