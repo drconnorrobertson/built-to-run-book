@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://builttorunbook.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://builttorunbook.com/about/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://builttorunbook.com/chapters/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://builttorunbook.com/author/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://builttorunbook.com/framework/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://builttorunbook.com/resources/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://builttorunbook.com/blog/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://builttorunbook.com/blog/accountability-map-team-ownership</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/founders-cant-step-away</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/how-to-write-sop</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/delegation-not-dumping</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/three-systems-before-scale</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/business-doesnt-run-without-you</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/contact/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/hiring-for-systems-not-skills</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/weekly-ops-review</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/automate-before-you-delegate</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/onboarding-new-hires-systems</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/decision-audit-stop-being-bottleneck</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/exit-test-owner-independent-business</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/systems-scorecard-measuring-operational-independence</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/role-scorecard-hiring-without-you</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/training-system-that-runs-itself</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://builttorunbook.com/blog/communication-stack-team-alignment</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://builttorunbook.com/about/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://builttorunbook.com/chapters/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://builttorunbook.com/author/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://builttorunbook.com/framework/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://builttorunbook.com/resources/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://builttorunbook.com/blog/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://builttorunbook.com/blog/sop-that-runs-itself</loc><lastmod>2026-08-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/communication-stack-team-alignment</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/training-system-that-runs-itself</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/role-scorecard-hiring-without-you</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/systems-scorecard-measuring-operational-independence</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/exit-test-owner-independent-business</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/decision-audit-stop-being-bottleneck</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/onboarding-new-hires-systems</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/automate-before-you-delegate</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/weekly-ops-review</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/hiring-for-systems-not-skills</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/accountability-map-team-ownership</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/three-systems-before-scale</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/delegation-not-dumping</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/how-to-write-sop</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/business-doesnt-run-without-you</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/founders-cant-step-away</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://builttorunbook.com/blog/contact/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
