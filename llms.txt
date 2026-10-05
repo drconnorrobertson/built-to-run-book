@@ -5,6 +5,7 @@
 Built to Run by Dr. Connor Robertson provides a blueprint for creating businesses with systems and processes that run independently. The book covers delegation, automation, team building, and operational frameworks for business owners who want freedom from day-to-day operations.
 
 ## Key Pages
-- Home: https://www.builttorunbook.com/
-- About the Book: https://www.builttorunbook.com/about
-- Author: https://www.builttorunbook.com/author
+- Home: https://www.builttorunbook.net/
+- About the Book: https://www.builttorunbook.net/about
+- Author: https://www.builttorunbook.net/author
+

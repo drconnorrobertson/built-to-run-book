@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://builttorunbook.com/sitemap.xml
+Sitemap: https://www.builttorunbook.net/sitemap.xml
+
