@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-10-25",
+  "records": 4,
+  "flagged_records": 3,
+  "issues": [
+    {
+      "record": 2,
+      "action_id": "A1",
+      "issues": [
+        "missing_owner",
+        "past_due"
+      ]
+    },
+    {
+      "record": 4,
+      "action_id": "A3",
+      "issues": [
+        "missing_closure_evidence"
+      ]
+    },
+    {
+      "record": 5,
+      "action_id": "A1",
+      "issues": [
+        "duplicate_id",
+        "invalid_due_date"
+      ]
+    }
+  ]
+}
