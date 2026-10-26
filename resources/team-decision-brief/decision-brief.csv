@@ -1,0 +1,4 @@
+option,find_unassigned_score,low_review_burden_score,history_score,weights,fictional_total
+A approved shared log,4,3,4,3;2;1,22
+B approved trial queue,5,2,4,3;2;1,23
+C email with owner tag,2,4,2,3;2;1,16
