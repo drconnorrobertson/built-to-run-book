@@ -1,0 +1,7 @@
+fictional_case,group,handoff_minutes,clarifications,limit
+BASE1,baseline,12,2,Invented observations; no real outcome
+BASE2,baseline,18,1,Comparability not established
+BASE3,baseline,15,2,Not labor or cost savings
+TEST1,trial,10,1,Invented observations; no causal proof
+TEST2,trial,14,1,Comparability not established
+TEST3,trial,12,0,Zero under fictional recording convention only
