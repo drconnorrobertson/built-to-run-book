@@ -1,0 +1,7 @@
+fictional_item,start_day,finish_day,status_at_day10
+A,1,,open
+B,4,,open
+C,9,,open
+D,5,8,finished
+E,2,9,finished
+F,,,open
