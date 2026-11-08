@@ -76,5 +76,7 @@
       "destination": "https://www.builttorunbook.net/:path*",
       "permanent": true
     }
-  ]
+  ],
+  "buildCommand": "python3 scripts/verify-indexing.py",
+  "outputDirectory": "."
 }
