@@ -77,5 +77,6 @@
       "permanent": true
     }
   ],
-  "buildCommand": "python3 scripts/verify-indexing.py"
+  "buildCommand": "python3 scripts/verify-indexing.py",
+  "outputDirectory": "."
 }
