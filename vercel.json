@@ -2351,7 +2351,7 @@
       "permanent": true
     }
   ],
-  "buildCommand": "python3 scripts/prepare-static.py && python3 scripts/verify-indexing.py dist",
+  "buildCommand": "python3 scripts/prepare-static.py && python3 scripts/verify-indexing.py dist && python3 scripts/verify-faq-content.py dist",
   "outputDirectory": "dist",
   "rewrites": [
     {
