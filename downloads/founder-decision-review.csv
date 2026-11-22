@@ -1,0 +1,6 @@
+fictional_item,fictional_request,fictional_primary,fictional_backup,fictional_authority_or_input_rule,routine_eligible_in_packet,acknowledgement_record,completion_record,reader_observation
+R01,$65 refund,Jay,Lina,Routine refund <= $100,yes,Jay acknowledgement supplied,Posted refund receipt supplied,
+R02,$180 refund,Exception owner,Not supplied,Routine refund <= $100; exception approval needed,no,Not supplied,Not supplied,
+R03,$450 approved supply reorder,Mina,Jay,Approved reorder <= $500,yes,Not supplied,Not supplied,
+R04,Delivery requested within 48 hours,Operations lead,Not supplied,Current capacity confirmation required,no,Not supplied,Not supplied,
+R05,Revised invoice to send,Billing owner,Not supplied,Current approved invoice version required,no,Not supplied,Not supplied,
