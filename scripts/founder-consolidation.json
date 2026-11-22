@@ -18,10 +18,20 @@
     "/blog/standard-operating-procedures-red-flags": "/blog/standard-operating-procedures-checklist#mistakes",
     "/blog/standard-operating-procedures-implementation": "/blog/standard-operating-procedures-checklist#test",
     "/blog/standard-operating-procedures-advanced": "/blog/standard-operating-procedures-checklist#versions",
-    "/blog/standard-operating-procedures-faq": "/blog/standard-operating-procedures-checklist#questions"
+    "/blog/standard-operating-procedures-faq": "/blog/standard-operating-procedures-checklist#questions",
+    "/blog/customer-delivery-field-guide": "/blog/customer-delivery-checklist#readiness",
+    "/blog/customer-delivery-mistakes": "/blog/customer-delivery-checklist#exceptions",
+    "/blog/customer-delivery-questions": "/blog/customer-delivery-checklist#questions",
+    "/blog/customer-delivery-scorecard": "/blog/customer-delivery-checklist#checklist",
+    "/blog/customer-delivery-red-flags": "/blog/customer-delivery-examples#comparison",
+    "/blog/customer-delivery-implementation": "/blog/customer-delivery-checklist#closeout",
+    "/blog/customer-delivery-advanced": "/blog/customer-delivery-examples#scope-change",
+    "/blog/customer-delivery-faq": "/blog/customer-delivery-checklist#questions"
   },
   "retainedOwners": [
     "/blog/founder-dependency-mistakes",
-    "/blog/standard-operating-procedures-checklist"
+    "/blog/standard-operating-procedures-checklist",
+    "/blog/customer-delivery-checklist",
+    "/blog/customer-delivery-examples"
   ]
 }
