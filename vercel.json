@@ -466,6 +466,141 @@
       "permanent": true
     },
     {
+      "source": "/blog/role-clarity-field-guide",
+      "destination": "/blog/role-clarity-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-field-guide/",
+      "destination": "/blog/role-clarity-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-field-guide/index.html",
+      "destination": "/blog/role-clarity-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-mistakes",
+      "destination": "/blog/role-clarity-checklist#conflicts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-mistakes/",
+      "destination": "/blog/role-clarity-checklist#conflicts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-mistakes/index.html",
+      "destination": "/blog/role-clarity-checklist#conflicts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-questions",
+      "destination": "/blog/role-clarity-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-questions/",
+      "destination": "/blog/role-clarity-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-questions/index.html",
+      "destination": "/blog/role-clarity-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-examples",
+      "destination": "/blog/role-clarity-checklist#examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-examples/",
+      "destination": "/blog/role-clarity-checklist#examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-examples/index.html",
+      "destination": "/blog/role-clarity-checklist#examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-scorecard",
+      "destination": "/blog/role-clarity-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-scorecard/",
+      "destination": "/blog/role-clarity-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-scorecard/index.html",
+      "destination": "/blog/role-clarity-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-red-flags",
+      "destination": "/blog/role-clarity-checklist#conflicts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-red-flags/",
+      "destination": "/blog/role-clarity-checklist#conflicts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-red-flags/index.html",
+      "destination": "/blog/role-clarity-checklist#conflicts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-implementation",
+      "destination": "/blog/role-clarity-checklist#test",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-implementation/",
+      "destination": "/blog/role-clarity-checklist#test",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-implementation/index.html",
+      "destination": "/blog/role-clarity-checklist#test",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-advanced",
+      "destination": "/blog/role-clarity-checklist#conflicts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-advanced/",
+      "destination": "/blog/role-clarity-checklist#conflicts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-advanced/index.html",
+      "destination": "/blog/role-clarity-checklist#conflicts",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-faq",
+      "destination": "/blog/role-clarity-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-faq/",
+      "destination": "/blog/role-clarity-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-faq/index.html",
+      "destination": "/blog/role-clarity-checklist#questions",
+      "permanent": true
+    },
+    {
       "source": "/index.html",
       "destination": "/",
       "permanent": true
@@ -836,53 +971,8 @@
       "permanent": true
     },
     {
-      "source": "/blog/role-clarity-advanced/index.html",
-      "destination": "/blog/role-clarity-advanced",
-      "permanent": true
-    },
-    {
       "source": "/blog/role-clarity-checklist/index.html",
       "destination": "/blog/role-clarity-checklist",
-      "permanent": true
-    },
-    {
-      "source": "/blog/role-clarity-examples/index.html",
-      "destination": "/blog/role-clarity-examples",
-      "permanent": true
-    },
-    {
-      "source": "/blog/role-clarity-faq/index.html",
-      "destination": "/blog/role-clarity-faq",
-      "permanent": true
-    },
-    {
-      "source": "/blog/role-clarity-field-guide/index.html",
-      "destination": "/blog/role-clarity-field-guide",
-      "permanent": true
-    },
-    {
-      "source": "/blog/role-clarity-implementation/index.html",
-      "destination": "/blog/role-clarity-implementation",
-      "permanent": true
-    },
-    {
-      "source": "/blog/role-clarity-mistakes/index.html",
-      "destination": "/blog/role-clarity-mistakes",
-      "permanent": true
-    },
-    {
-      "source": "/blog/role-clarity-questions/index.html",
-      "destination": "/blog/role-clarity-questions",
-      "permanent": true
-    },
-    {
-      "source": "/blog/role-clarity-red-flags/index.html",
-      "destination": "/blog/role-clarity-red-flags",
-      "permanent": true
-    },
-    {
-      "source": "/blog/role-clarity-scorecard/index.html",
-      "destination": "/blog/role-clarity-scorecard",
       "permanent": true
     },
     {
@@ -2651,44 +2741,8 @@
       "destination": "/blog/meeting-cadence-scorecard/index.html"
     },
     {
-      "source": "/blog/role-clarity-advanced",
-      "destination": "/blog/role-clarity-advanced/index.html"
-    },
-    {
       "source": "/blog/role-clarity-checklist",
       "destination": "/blog/role-clarity-checklist/index.html"
-    },
-    {
-      "source": "/blog/role-clarity-examples",
-      "destination": "/blog/role-clarity-examples/index.html"
-    },
-    {
-      "source": "/blog/role-clarity-faq",
-      "destination": "/blog/role-clarity-faq/index.html"
-    },
-    {
-      "source": "/blog/role-clarity-field-guide",
-      "destination": "/blog/role-clarity-field-guide/index.html"
-    },
-    {
-      "source": "/blog/role-clarity-implementation",
-      "destination": "/blog/role-clarity-implementation/index.html"
-    },
-    {
-      "source": "/blog/role-clarity-mistakes",
-      "destination": "/blog/role-clarity-mistakes/index.html"
-    },
-    {
-      "source": "/blog/role-clarity-questions",
-      "destination": "/blog/role-clarity-questions/index.html"
-    },
-    {
-      "source": "/blog/role-clarity-red-flags",
-      "destination": "/blog/role-clarity-red-flags/index.html"
-    },
-    {
-      "source": "/blog/role-clarity-scorecard",
-      "destination": "/blog/role-clarity-scorecard/index.html"
     },
     {
       "source": "/blog/scorecards-advanced",

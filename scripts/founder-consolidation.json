@@ -26,12 +26,22 @@
     "/blog/customer-delivery-red-flags": "/blog/customer-delivery-examples#comparison",
     "/blog/customer-delivery-implementation": "/blog/customer-delivery-checklist#closeout",
     "/blog/customer-delivery-advanced": "/blog/customer-delivery-examples#scope-change",
-    "/blog/customer-delivery-faq": "/blog/customer-delivery-checklist#questions"
+    "/blog/customer-delivery-faq": "/blog/customer-delivery-checklist#questions",
+    "/blog/role-clarity-field-guide": "/blog/role-clarity-checklist#checklist",
+    "/blog/role-clarity-mistakes": "/blog/role-clarity-checklist#conflicts",
+    "/blog/role-clarity-questions": "/blog/role-clarity-checklist#questions",
+    "/blog/role-clarity-examples": "/blog/role-clarity-checklist#examples",
+    "/blog/role-clarity-scorecard": "/blog/role-clarity-checklist#checklist",
+    "/blog/role-clarity-red-flags": "/blog/role-clarity-checklist#conflicts",
+    "/blog/role-clarity-implementation": "/blog/role-clarity-checklist#test",
+    "/blog/role-clarity-advanced": "/blog/role-clarity-checklist#conflicts",
+    "/blog/role-clarity-faq": "/blog/role-clarity-checklist#questions"
   },
   "retainedOwners": [
     "/blog/founder-dependency-mistakes",
     "/blog/standard-operating-procedures-checklist",
     "/blog/customer-delivery-checklist",
-    "/blog/customer-delivery-examples"
+    "/blog/customer-delivery-examples",
+    "/blog/role-clarity-checklist"
   ]
 }
