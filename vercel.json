@@ -1,6 +1,5 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false,
+  "cleanUrls": false,
   "headers": [
     {
       "source": "/(.*)",
@@ -75,8 +74,3687 @@
       ],
       "destination": "https://www.builttorunbook.net/:path*",
       "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-field-guide",
+      "destination": "/blog/founder-dependency-mistakes#diagnostic",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-field-guide/",
+      "destination": "/blog/founder-dependency-mistakes#diagnostic",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-field-guide/index.html",
+      "destination": "/blog/founder-dependency-mistakes#diagnostic",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-checklist",
+      "destination": "/blog/founder-dependency-mistakes#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-checklist/",
+      "destination": "/blog/founder-dependency-mistakes#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-checklist/index.html",
+      "destination": "/blog/founder-dependency-mistakes#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-questions",
+      "destination": "/blog/founder-dependency-mistakes#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-questions/",
+      "destination": "/blog/founder-dependency-mistakes#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-questions/index.html",
+      "destination": "/blog/founder-dependency-mistakes#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-examples",
+      "destination": "/blog/founder-dependency-mistakes#example",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-examples/",
+      "destination": "/blog/founder-dependency-mistakes#example",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-examples/index.html",
+      "destination": "/blog/founder-dependency-mistakes#example",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-scorecard",
+      "destination": "/blog/founder-dependency-mistakes#diagnostic",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-scorecard/",
+      "destination": "/blog/founder-dependency-mistakes#diagnostic",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-scorecard/index.html",
+      "destination": "/blog/founder-dependency-mistakes#diagnostic",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-red-flags",
+      "destination": "/blog/founder-dependency-mistakes#mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-red-flags/",
+      "destination": "/blog/founder-dependency-mistakes#mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-red-flags/index.html",
+      "destination": "/blog/founder-dependency-mistakes#mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-implementation",
+      "destination": "/blog/founder-dependency-mistakes#implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-implementation/",
+      "destination": "/blog/founder-dependency-mistakes#implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-implementation/index.html",
+      "destination": "/blog/founder-dependency-mistakes#implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-advanced",
+      "destination": "/blog/founder-dependency-mistakes#limits",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-advanced/",
+      "destination": "/blog/founder-dependency-mistakes#limits",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-advanced/index.html",
+      "destination": "/blog/founder-dependency-mistakes#limits",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-faq",
+      "destination": "/blog/founder-dependency-mistakes#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-faq/",
+      "destination": "/blog/founder-dependency-mistakes#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-faq/index.html",
+      "destination": "/blog/founder-dependency-mistakes#questions",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about/index.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/author/index.html",
+      "destination": "/author",
+      "permanent": true
+    },
+    {
+      "source": "/blog/accountability-map-team-ownership/index.html",
+      "destination": "/blog/accountability-map-team-ownership",
+      "permanent": true
+    },
+    {
+      "source": "/blog/automate-before-you-delegate/index.html",
+      "destination": "/blog/automate-before-you-delegate",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bus-factor-single-points-of-failure/index.html",
+      "destination": "/blog/bus-factor-single-points-of-failure",
+      "permanent": true
+    },
+    {
+      "source": "/blog/business-doesnt-run-without-you/index.html",
+      "destination": "/blog/business-doesnt-run-without-you",
+      "permanent": true
+    },
+    {
+      "source": "/blog/client-onboarding-system/index.html",
+      "destination": "/blog/client-onboarding-system",
+      "permanent": true
+    },
+    {
+      "source": "/blog/communication-stack-team-alignment/index.html",
+      "destination": "/blog/communication-stack-team-alignment",
+      "permanent": true
+    },
+    {
+      "source": "/blog/decision-audit-stop-being-bottleneck/index.html",
+      "destination": "/blog/decision-audit-stop-being-bottleneck",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-not-dumping/index.html",
+      "destination": "/blog/delegation-not-dumping",
+      "permanent": true
+    },
+    {
+      "source": "/blog/documentation-habit-institutional-knowledge/index.html",
+      "destination": "/blog/documentation-habit-institutional-knowledge",
+      "permanent": true
+    },
+    {
+      "source": "/blog/escalation-ladder-decision-independence/index.html",
+      "destination": "/blog/escalation-ladder-decision-independence",
+      "permanent": true
+    },
+    {
+      "source": "/blog/exit-test-owner-independent-business/index.html",
+      "destination": "/blog/exit-test-owner-independent-business",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founders-cant-step-away/index.html",
+      "destination": "/blog/founders-cant-step-away",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-for-systems-not-skills/index.html",
+      "destination": "/blog/hiring-for-systems-not-skills",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-write-sop/index.html",
+      "destination": "/blog/how-to-write-sop",
+      "permanent": true
+    },
+    {
+      "source": "/blog/onboarding-new-hires-systems/index.html",
+      "destination": "/blog/onboarding-new-hires-systems",
+      "permanent": true
+    },
+    {
+      "source": "/blog/process-debt-hidden-cost/index.html",
+      "destination": "/blog/process-debt-hidden-cost",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-scorecard-hiring-without-you/index.html",
+      "destination": "/blog/role-scorecard-hiring-without-you",
+      "permanent": true
+    },
+    {
+      "source": "/blog/second-in-command-gm-hire/index.html",
+      "destination": "/blog/second-in-command-gm-hire",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sop-that-runs-itself/index.html",
+      "destination": "/blog/sop-that-runs-itself",
+      "permanent": true
+    },
+    {
+      "source": "/blog/systems-scorecard-measuring-operational-independence/index.html",
+      "destination": "/blog/systems-scorecard-measuring-operational-independence",
+      "permanent": true
+    },
+    {
+      "source": "/blog/three-systems-before-scale/index.html",
+      "destination": "/blog/three-systems-before-scale",
+      "permanent": true
+    },
+    {
+      "source": "/blog/training-system-that-runs-itself/index.html",
+      "destination": "/blog/training-system-that-runs-itself",
+      "permanent": true
+    },
+    {
+      "source": "/blog/weekly-ops-review/index.html",
+      "destination": "/blog/weekly-ops-review",
+      "permanent": true
+    },
+    {
+      "source": "/chapters/index.html",
+      "destination": "/chapters",
+      "permanent": true
+    },
+    {
+      "source": "/contact/index.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/framework/index.html",
+      "destination": "/framework",
+      "permanent": true
+    },
+    {
+      "source": "/resources/index.html",
+      "destination": "/resources",
+      "permanent": true
+    },
+    {
+      "source": "/blog/index.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-advanced/index.html",
+      "destination": "/blog/customer-delivery-advanced",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-checklist/index.html",
+      "destination": "/blog/customer-delivery-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-examples/index.html",
+      "destination": "/blog/customer-delivery-examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-faq/index.html",
+      "destination": "/blog/customer-delivery-faq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-field-guide/index.html",
+      "destination": "/blog/customer-delivery-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-implementation/index.html",
+      "destination": "/blog/customer-delivery-implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-mistakes/index.html",
+      "destination": "/blog/customer-delivery-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-questions/index.html",
+      "destination": "/blog/customer-delivery-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-red-flags/index.html",
+      "destination": "/blog/customer-delivery-red-flags",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-scorecard/index.html",
+      "destination": "/blog/customer-delivery-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-advanced/index.html",
+      "destination": "/blog/delegation-advanced",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-checklist/index.html",
+      "destination": "/blog/delegation-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-examples/index.html",
+      "destination": "/blog/delegation-examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-faq/index.html",
+      "destination": "/blog/delegation-faq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-field-guide/index.html",
+      "destination": "/blog/delegation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-implementation/index.html",
+      "destination": "/blog/delegation-implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-mistakes/index.html",
+      "destination": "/blog/delegation-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-questions/index.html",
+      "destination": "/blog/delegation-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-red-flags/index.html",
+      "destination": "/blog/delegation-red-flags",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-scorecard/index.html",
+      "destination": "/blog/delegation-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-advanced/index.html",
+      "destination": "/blog/financial-visibility-advanced",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-checklist/index.html",
+      "destination": "/blog/financial-visibility-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-examples/index.html",
+      "destination": "/blog/financial-visibility-examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-faq/index.html",
+      "destination": "/blog/financial-visibility-faq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-field-guide/index.html",
+      "destination": "/blog/financial-visibility-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-implementation/index.html",
+      "destination": "/blog/financial-visibility-implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-mistakes/index.html",
+      "destination": "/blog/financial-visibility-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-questions/index.html",
+      "destination": "/blog/financial-visibility-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-red-flags/index.html",
+      "destination": "/blog/financial-visibility-red-flags",
+      "permanent": true
+    },
+    {
+      "source": "/blog/financial-visibility-scorecard/index.html",
+      "destination": "/blog/financial-visibility-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/blog/founder-dependency-mistakes/index.html",
+      "destination": "/blog/founder-dependency-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-advanced/index.html",
+      "destination": "/blog/hiring-systems-advanced",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-checklist/index.html",
+      "destination": "/blog/hiring-systems-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-examples/index.html",
+      "destination": "/blog/hiring-systems-examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-faq/index.html",
+      "destination": "/blog/hiring-systems-faq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-field-guide/index.html",
+      "destination": "/blog/hiring-systems-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-implementation/index.html",
+      "destination": "/blog/hiring-systems-implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-mistakes/index.html",
+      "destination": "/blog/hiring-systems-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-questions/index.html",
+      "destination": "/blog/hiring-systems-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-red-flags/index.html",
+      "destination": "/blog/hiring-systems-red-flags",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hiring-systems-scorecard/index.html",
+      "destination": "/blog/hiring-systems-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-advanced/index.html",
+      "destination": "/blog/meeting-cadence-advanced",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-checklist/index.html",
+      "destination": "/blog/meeting-cadence-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-examples/index.html",
+      "destination": "/blog/meeting-cadence-examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-faq/index.html",
+      "destination": "/blog/meeting-cadence-faq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-field-guide/index.html",
+      "destination": "/blog/meeting-cadence-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-implementation/index.html",
+      "destination": "/blog/meeting-cadence-implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-mistakes/index.html",
+      "destination": "/blog/meeting-cadence-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-questions/index.html",
+      "destination": "/blog/meeting-cadence-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-red-flags/index.html",
+      "destination": "/blog/meeting-cadence-red-flags",
+      "permanent": true
+    },
+    {
+      "source": "/blog/meeting-cadence-scorecard/index.html",
+      "destination": "/blog/meeting-cadence-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-advanced/index.html",
+      "destination": "/blog/role-clarity-advanced",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-checklist/index.html",
+      "destination": "/blog/role-clarity-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-examples/index.html",
+      "destination": "/blog/role-clarity-examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-faq/index.html",
+      "destination": "/blog/role-clarity-faq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-field-guide/index.html",
+      "destination": "/blog/role-clarity-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-implementation/index.html",
+      "destination": "/blog/role-clarity-implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-mistakes/index.html",
+      "destination": "/blog/role-clarity-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-questions/index.html",
+      "destination": "/blog/role-clarity-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-red-flags/index.html",
+      "destination": "/blog/role-clarity-red-flags",
+      "permanent": true
+    },
+    {
+      "source": "/blog/role-clarity-scorecard/index.html",
+      "destination": "/blog/role-clarity-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-advanced/index.html",
+      "destination": "/blog/scorecards-advanced",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-checklist/index.html",
+      "destination": "/blog/scorecards-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-examples/index.html",
+      "destination": "/blog/scorecards-examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-faq/index.html",
+      "destination": "/blog/scorecards-faq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-field-guide/index.html",
+      "destination": "/blog/scorecards-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-implementation/index.html",
+      "destination": "/blog/scorecards-implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-mistakes/index.html",
+      "destination": "/blog/scorecards-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-questions/index.html",
+      "destination": "/blog/scorecards-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-red-flags/index.html",
+      "destination": "/blog/scorecards-red-flags",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scorecards-scorecard/index.html",
+      "destination": "/blog/scorecards-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-advanced/index.html",
+      "destination": "/blog/standard-operating-procedures-advanced",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-checklist/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-examples/index.html",
+      "destination": "/blog/standard-operating-procedures-examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-faq/index.html",
+      "destination": "/blog/standard-operating-procedures-faq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-field-guide/index.html",
+      "destination": "/blog/standard-operating-procedures-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-implementation/index.html",
+      "destination": "/blog/standard-operating-procedures-implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-mistakes/index.html",
+      "destination": "/blog/standard-operating-procedures-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-questions/index.html",
+      "destination": "/blog/standard-operating-procedures-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-red-flags/index.html",
+      "destination": "/blog/standard-operating-procedures-red-flags",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-scorecard/index.html",
+      "destination": "/blog/standard-operating-procedures-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-advanced/index.html",
+      "destination": "/blog/succession-readiness-advanced",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-checklist/index.html",
+      "destination": "/blog/succession-readiness-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-examples/index.html",
+      "destination": "/blog/succession-readiness-examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-faq/index.html",
+      "destination": "/blog/succession-readiness-faq",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-field-guide/index.html",
+      "destination": "/blog/succession-readiness-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-implementation/index.html",
+      "destination": "/blog/succession-readiness-implementation",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-mistakes/index.html",
+      "destination": "/blog/succession-readiness-mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-questions/index.html",
+      "destination": "/blog/succession-readiness-questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-red-flags/index.html",
+      "destination": "/blog/succession-readiness-red-flags",
+      "permanent": true
+    },
+    {
+      "source": "/blog/succession-readiness-scorecard/index.html",
+      "destination": "/blog/succession-readiness-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/blog/two-week-vacation-test/index.html",
+      "destination": "/blog/two-week-vacation-test",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-dashboard-five-numbers/index.html",
+      "destination": "/blog/owner-dashboard-five-numbers",
+      "permanent": true
+    },
+    {
+      "source": "/blog/transitioning-owner-led-sales/index.html",
+      "destination": "/blog/transitioning-owner-led-sales",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cross-training-coverage-plan/index.html",
+      "destination": "/blog/cross-training-coverage-plan",
+      "permanent": true
+    },
+    {
+      "source": "/resources/process-owner-backup-design/index.html",
+      "destination": "/resources/process-owner-backup-design",
+      "permanent": true
+    },
+    {
+      "source": "/ai-learning/ai-sop-writing-workflow/index.html",
+      "destination": "/ai-learning/ai-sop-writing-workflow",
+      "permanent": true
+    },
+    {
+      "source": "/ai-learning/ai-weekly-business-scorecard/index.html",
+      "destination": "/ai-learning/ai-weekly-business-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/ai-learning/ai-delegation-and-approval-workflow/index.html",
+      "destination": "/ai-learning/ai-delegation-and-approval-workflow",
+      "permanent": true
+    },
+    {
+      "source": "/ai-learning/index.html",
+      "destination": "/ai-learning",
+      "permanent": true
+    },
+    {
+      "source": "/reading-guide/index.html",
+      "destination": "/reading-guide",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/marketing-agencies/index.html",
+      "destination": "/workflows/ai-sop-checklists/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/consulting-firms/index.html",
+      "destination": "/workflows/ai-sop-checklists/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/software-companies/index.html",
+      "destination": "/workflows/ai-sop-checklists/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-sop-checklists/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/manufacturers/index.html",
+      "destination": "/workflows/ai-sop-checklists/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-sop-checklists/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/construction-companies/index.html",
+      "destination": "/workflows/ai-sop-checklists/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/trade-contractors/index.html",
+      "destination": "/workflows/ai-sop-checklists/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/salons/index.html",
+      "destination": "/workflows/ai-sop-checklists/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/restaurants/index.html",
+      "destination": "/workflows/ai-sop-checklists/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/retail-stores/index.html",
+      "destination": "/workflows/ai-sop-checklists/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/logistics-companies/index.html",
+      "destination": "/workflows/ai-sop-checklists/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/cleaning-companies/index.html",
+      "destination": "/workflows/ai-sop-checklists/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/landscaping-companies/index.html",
+      "destination": "/workflows/ai-sop-checklists/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/automotive-shops/index.html",
+      "destination": "/workflows/ai-sop-checklists/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/fitness-studios/index.html",
+      "destination": "/workflows/ai-sop-checklists/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/training-companies/index.html",
+      "destination": "/workflows/ai-sop-checklists/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/staffing-agencies/index.html",
+      "destination": "/workflows/ai-sop-checklists/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/event-companies/index.html",
+      "destination": "/workflows/ai-sop-checklists/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/architecture-firms/index.html",
+      "destination": "/workflows/ai-sop-checklists/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/index.html",
+      "destination": "/workflows/ai-sop-checklists",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/marketing-agencies/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/consulting-firms/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/software-companies/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/manufacturers/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/construction-companies/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/trade-contractors/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/salons/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/restaurants/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/retail-stores/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/logistics-companies/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/cleaning-companies/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/landscaping-companies/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/automotive-shops/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/fitness-studios/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/training-companies/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/staffing-agencies/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/event-companies/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/architecture-firms/index.html",
+      "destination": "/workflows/ai-weekly-scorecard/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/index.html",
+      "destination": "/workflows/ai-weekly-scorecard",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/marketing-agencies/index.html",
+      "destination": "/workflows/ai-delegation-matrix/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/consulting-firms/index.html",
+      "destination": "/workflows/ai-delegation-matrix/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/software-companies/index.html",
+      "destination": "/workflows/ai-delegation-matrix/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-delegation-matrix/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/manufacturers/index.html",
+      "destination": "/workflows/ai-delegation-matrix/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-delegation-matrix/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/construction-companies/index.html",
+      "destination": "/workflows/ai-delegation-matrix/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/trade-contractors/index.html",
+      "destination": "/workflows/ai-delegation-matrix/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/salons/index.html",
+      "destination": "/workflows/ai-delegation-matrix/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/restaurants/index.html",
+      "destination": "/workflows/ai-delegation-matrix/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/retail-stores/index.html",
+      "destination": "/workflows/ai-delegation-matrix/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/logistics-companies/index.html",
+      "destination": "/workflows/ai-delegation-matrix/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/cleaning-companies/index.html",
+      "destination": "/workflows/ai-delegation-matrix/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/landscaping-companies/index.html",
+      "destination": "/workflows/ai-delegation-matrix/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/automotive-shops/index.html",
+      "destination": "/workflows/ai-delegation-matrix/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/fitness-studios/index.html",
+      "destination": "/workflows/ai-delegation-matrix/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/training-companies/index.html",
+      "destination": "/workflows/ai-delegation-matrix/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/staffing-agencies/index.html",
+      "destination": "/workflows/ai-delegation-matrix/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/event-companies/index.html",
+      "destination": "/workflows/ai-delegation-matrix/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/architecture-firms/index.html",
+      "destination": "/workflows/ai-delegation-matrix/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/index.html",
+      "destination": "/workflows/ai-delegation-matrix",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/marketing-agencies/index.html",
+      "destination": "/workflows/ai-capacity-planning/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/consulting-firms/index.html",
+      "destination": "/workflows/ai-capacity-planning/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/software-companies/index.html",
+      "destination": "/workflows/ai-capacity-planning/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-capacity-planning/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/manufacturers/index.html",
+      "destination": "/workflows/ai-capacity-planning/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-capacity-planning/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/construction-companies/index.html",
+      "destination": "/workflows/ai-capacity-planning/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/trade-contractors/index.html",
+      "destination": "/workflows/ai-capacity-planning/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/salons/index.html",
+      "destination": "/workflows/ai-capacity-planning/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/restaurants/index.html",
+      "destination": "/workflows/ai-capacity-planning/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/retail-stores/index.html",
+      "destination": "/workflows/ai-capacity-planning/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/logistics-companies/index.html",
+      "destination": "/workflows/ai-capacity-planning/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/cleaning-companies/index.html",
+      "destination": "/workflows/ai-capacity-planning/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/landscaping-companies/index.html",
+      "destination": "/workflows/ai-capacity-planning/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/automotive-shops/index.html",
+      "destination": "/workflows/ai-capacity-planning/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/fitness-studios/index.html",
+      "destination": "/workflows/ai-capacity-planning/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/training-companies/index.html",
+      "destination": "/workflows/ai-capacity-planning/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/staffing-agencies/index.html",
+      "destination": "/workflows/ai-capacity-planning/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/event-companies/index.html",
+      "destination": "/workflows/ai-capacity-planning/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/architecture-firms/index.html",
+      "destination": "/workflows/ai-capacity-planning/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/index.html",
+      "destination": "/workflows/ai-capacity-planning",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/marketing-agencies/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/consulting-firms/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/software-companies/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/manufacturers/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/construction-companies/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/trade-contractors/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/salons/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/restaurants/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/retail-stores/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/logistics-companies/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/cleaning-companies/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/landscaping-companies/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/automotive-shops/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/fitness-studios/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/training-companies/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/staffing-agencies/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/event-companies/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/architecture-firms/index.html",
+      "destination": "/workflows/ai-onboarding-checklists/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/index.html",
+      "destination": "/workflows/ai-onboarding-checklists",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/marketing-agencies/index.html",
+      "destination": "/workflows/ai-quality-sampling/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/consulting-firms/index.html",
+      "destination": "/workflows/ai-quality-sampling/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/software-companies/index.html",
+      "destination": "/workflows/ai-quality-sampling/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-quality-sampling/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/manufacturers/index.html",
+      "destination": "/workflows/ai-quality-sampling/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-quality-sampling/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/construction-companies/index.html",
+      "destination": "/workflows/ai-quality-sampling/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/trade-contractors/index.html",
+      "destination": "/workflows/ai-quality-sampling/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/salons/index.html",
+      "destination": "/workflows/ai-quality-sampling/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/restaurants/index.html",
+      "destination": "/workflows/ai-quality-sampling/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/retail-stores/index.html",
+      "destination": "/workflows/ai-quality-sampling/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/logistics-companies/index.html",
+      "destination": "/workflows/ai-quality-sampling/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/cleaning-companies/index.html",
+      "destination": "/workflows/ai-quality-sampling/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/landscaping-companies/index.html",
+      "destination": "/workflows/ai-quality-sampling/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/automotive-shops/index.html",
+      "destination": "/workflows/ai-quality-sampling/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/fitness-studios/index.html",
+      "destination": "/workflows/ai-quality-sampling/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/training-companies/index.html",
+      "destination": "/workflows/ai-quality-sampling/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/staffing-agencies/index.html",
+      "destination": "/workflows/ai-quality-sampling/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/event-companies/index.html",
+      "destination": "/workflows/ai-quality-sampling/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/architecture-firms/index.html",
+      "destination": "/workflows/ai-quality-sampling/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/index.html",
+      "destination": "/workflows/ai-quality-sampling",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/marketing-agencies/index.html",
+      "destination": "/workflows/ai-escalation-rules/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/consulting-firms/index.html",
+      "destination": "/workflows/ai-escalation-rules/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/software-companies/index.html",
+      "destination": "/workflows/ai-escalation-rules/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-escalation-rules/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/manufacturers/index.html",
+      "destination": "/workflows/ai-escalation-rules/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-escalation-rules/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/construction-companies/index.html",
+      "destination": "/workflows/ai-escalation-rules/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/trade-contractors/index.html",
+      "destination": "/workflows/ai-escalation-rules/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/salons/index.html",
+      "destination": "/workflows/ai-escalation-rules/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/restaurants/index.html",
+      "destination": "/workflows/ai-escalation-rules/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/retail-stores/index.html",
+      "destination": "/workflows/ai-escalation-rules/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/logistics-companies/index.html",
+      "destination": "/workflows/ai-escalation-rules/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/cleaning-companies/index.html",
+      "destination": "/workflows/ai-escalation-rules/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/landscaping-companies/index.html",
+      "destination": "/workflows/ai-escalation-rules/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/automotive-shops/index.html",
+      "destination": "/workflows/ai-escalation-rules/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/fitness-studios/index.html",
+      "destination": "/workflows/ai-escalation-rules/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/training-companies/index.html",
+      "destination": "/workflows/ai-escalation-rules/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/staffing-agencies/index.html",
+      "destination": "/workflows/ai-escalation-rules/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/event-companies/index.html",
+      "destination": "/workflows/ai-escalation-rules/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/architecture-firms/index.html",
+      "destination": "/workflows/ai-escalation-rules/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/index.html",
+      "destination": "/workflows/ai-escalation-rules",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/marketing-agencies/index.html",
+      "destination": "/workflows/ai-meeting-actions/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/consulting-firms/index.html",
+      "destination": "/workflows/ai-meeting-actions/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/software-companies/index.html",
+      "destination": "/workflows/ai-meeting-actions/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-meeting-actions/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/manufacturers/index.html",
+      "destination": "/workflows/ai-meeting-actions/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-meeting-actions/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/construction-companies/index.html",
+      "destination": "/workflows/ai-meeting-actions/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/trade-contractors/index.html",
+      "destination": "/workflows/ai-meeting-actions/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/salons/index.html",
+      "destination": "/workflows/ai-meeting-actions/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/restaurants/index.html",
+      "destination": "/workflows/ai-meeting-actions/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/retail-stores/index.html",
+      "destination": "/workflows/ai-meeting-actions/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/logistics-companies/index.html",
+      "destination": "/workflows/ai-meeting-actions/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/cleaning-companies/index.html",
+      "destination": "/workflows/ai-meeting-actions/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/landscaping-companies/index.html",
+      "destination": "/workflows/ai-meeting-actions/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/automotive-shops/index.html",
+      "destination": "/workflows/ai-meeting-actions/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/fitness-studios/index.html",
+      "destination": "/workflows/ai-meeting-actions/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/training-companies/index.html",
+      "destination": "/workflows/ai-meeting-actions/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/staffing-agencies/index.html",
+      "destination": "/workflows/ai-meeting-actions/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/event-companies/index.html",
+      "destination": "/workflows/ai-meeting-actions/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/architecture-firms/index.html",
+      "destination": "/workflows/ai-meeting-actions/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/index.html",
+      "destination": "/workflows/ai-meeting-actions",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/marketing-agencies/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/consulting-firms/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/software-companies/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/manufacturers/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/construction-companies/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/trade-contractors/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/salons/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/restaurants/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/retail-stores/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/logistics-companies/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/cleaning-companies/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/landscaping-companies/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/automotive-shops/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/fitness-studios/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/training-companies/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/staffing-agencies/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/event-companies/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/architecture-firms/index.html",
+      "destination": "/workflows/ai-hiring-scorecards/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/index.html",
+      "destination": "/workflows/ai-hiring-scorecards",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/marketing-agencies/index.html",
+      "destination": "/workflows/ai-handoff-checklists/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/consulting-firms/index.html",
+      "destination": "/workflows/ai-handoff-checklists/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/software-companies/index.html",
+      "destination": "/workflows/ai-handoff-checklists/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-handoff-checklists/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/manufacturers/index.html",
+      "destination": "/workflows/ai-handoff-checklists/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-handoff-checklists/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/construction-companies/index.html",
+      "destination": "/workflows/ai-handoff-checklists/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/trade-contractors/index.html",
+      "destination": "/workflows/ai-handoff-checklists/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/salons/index.html",
+      "destination": "/workflows/ai-handoff-checklists/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/restaurants/index.html",
+      "destination": "/workflows/ai-handoff-checklists/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/retail-stores/index.html",
+      "destination": "/workflows/ai-handoff-checklists/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/logistics-companies/index.html",
+      "destination": "/workflows/ai-handoff-checklists/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/cleaning-companies/index.html",
+      "destination": "/workflows/ai-handoff-checklists/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/landscaping-companies/index.html",
+      "destination": "/workflows/ai-handoff-checklists/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/automotive-shops/index.html",
+      "destination": "/workflows/ai-handoff-checklists/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/fitness-studios/index.html",
+      "destination": "/workflows/ai-handoff-checklists/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/training-companies/index.html",
+      "destination": "/workflows/ai-handoff-checklists/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/staffing-agencies/index.html",
+      "destination": "/workflows/ai-handoff-checklists/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/event-companies/index.html",
+      "destination": "/workflows/ai-handoff-checklists/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/architecture-firms/index.html",
+      "destination": "/workflows/ai-handoff-checklists/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/index.html",
+      "destination": "/workflows/ai-handoff-checklists",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/marketing-agencies/index.html",
+      "destination": "/workflows/ai-process-change-logs/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/consulting-firms/index.html",
+      "destination": "/workflows/ai-process-change-logs/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/software-companies/index.html",
+      "destination": "/workflows/ai-process-change-logs/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-process-change-logs/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/manufacturers/index.html",
+      "destination": "/workflows/ai-process-change-logs/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-process-change-logs/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/construction-companies/index.html",
+      "destination": "/workflows/ai-process-change-logs/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/trade-contractors/index.html",
+      "destination": "/workflows/ai-process-change-logs/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/salons/index.html",
+      "destination": "/workflows/ai-process-change-logs/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/restaurants/index.html",
+      "destination": "/workflows/ai-process-change-logs/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/retail-stores/index.html",
+      "destination": "/workflows/ai-process-change-logs/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/logistics-companies/index.html",
+      "destination": "/workflows/ai-process-change-logs/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/cleaning-companies/index.html",
+      "destination": "/workflows/ai-process-change-logs/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/landscaping-companies/index.html",
+      "destination": "/workflows/ai-process-change-logs/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/automotive-shops/index.html",
+      "destination": "/workflows/ai-process-change-logs/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/fitness-studios/index.html",
+      "destination": "/workflows/ai-process-change-logs/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/training-companies/index.html",
+      "destination": "/workflows/ai-process-change-logs/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/staffing-agencies/index.html",
+      "destination": "/workflows/ai-process-change-logs/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/event-companies/index.html",
+      "destination": "/workflows/ai-process-change-logs/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/architecture-firms/index.html",
+      "destination": "/workflows/ai-process-change-logs/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/index.html",
+      "destination": "/workflows/ai-process-change-logs",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/marketing-agencies/index.html",
+      "destination": "/workflows/ai-founder-independence/marketing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/consulting-firms/index.html",
+      "destination": "/workflows/ai-founder-independence/consulting-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/software-companies/index.html",
+      "destination": "/workflows/ai-founder-independence/software-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/ecommerce-brands/index.html",
+      "destination": "/workflows/ai-founder-independence/ecommerce-brands",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/manufacturers/index.html",
+      "destination": "/workflows/ai-founder-independence/manufacturers",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/wholesale-distributors/index.html",
+      "destination": "/workflows/ai-founder-independence/wholesale-distributors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/construction-companies/index.html",
+      "destination": "/workflows/ai-founder-independence/construction-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/trade-contractors/index.html",
+      "destination": "/workflows/ai-founder-independence/trade-contractors",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/salons/index.html",
+      "destination": "/workflows/ai-founder-independence/salons",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/restaurants/index.html",
+      "destination": "/workflows/ai-founder-independence/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/retail-stores/index.html",
+      "destination": "/workflows/ai-founder-independence/retail-stores",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/logistics-companies/index.html",
+      "destination": "/workflows/ai-founder-independence/logistics-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/cleaning-companies/index.html",
+      "destination": "/workflows/ai-founder-independence/cleaning-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/landscaping-companies/index.html",
+      "destination": "/workflows/ai-founder-independence/landscaping-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/automotive-shops/index.html",
+      "destination": "/workflows/ai-founder-independence/automotive-shops",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/fitness-studios/index.html",
+      "destination": "/workflows/ai-founder-independence/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/training-companies/index.html",
+      "destination": "/workflows/ai-founder-independence/training-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/staffing-agencies/index.html",
+      "destination": "/workflows/ai-founder-independence/staffing-agencies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/event-companies/index.html",
+      "destination": "/workflows/ai-founder-independence/event-companies",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/architecture-firms/index.html",
+      "destination": "/workflows/ai-founder-independence/architecture-firms",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/ai-founder-independence/index.html",
+      "destination": "/workflows/ai-founder-independence",
+      "permanent": true
+    },
+    {
+      "source": "/workflows/index.html",
+      "destination": "/workflows",
+      "permanent": true
+    },
+    {
+      "source": "/blog/delegation-exception-decision-log/index.html",
+      "destination": "/blog/delegation-exception-decision-log",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sop-backup-person-test/index.html",
+      "destination": "/blog/sop-backup-person-test",
+      "permanent": true
+    },
+    {
+      "source": "/resources/action-log-audit/index.html",
+      "destination": "/resources/action-log-audit",
+      "permanent": true
+    },
+    {
+      "source": "/resources/team-decision-brief/index.html",
+      "destination": "/resources/team-decision-brief",
+      "permanent": true
+    },
+    {
+      "source": "/resources/bounded-process-trial/index.html",
+      "destination": "/resources/bounded-process-trial",
+      "permanent": true
+    },
+    {
+      "source": "/resources/work-in-progress-and-throughput/index.html",
+      "destination": "/resources/work-in-progress-and-throughput",
+      "permanent": true
+    },
+    {
+      "source": "/resources/local-html-task-aid/index.html",
+      "destination": "/resources/local-html-task-aid",
+      "permanent": true
+    },
+    {
+      "source": "/resources/read-unfinished-work-age/index.html",
+      "destination": "/resources/read-unfinished-work-age",
+      "permanent": true
+    },
+    {
+      "source": "/:path([^/].*)/",
+      "destination": "/:path",
+      "permanent": true
     }
   ],
-  "buildCommand": "python3 scripts/verify-indexing.py",
-  "outputDirectory": "."
+  "buildCommand": "python3 scripts/prepare-static.py && python3 scripts/verify-indexing.py dist",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/about/index.html"
+    },
+    {
+      "source": "/author",
+      "destination": "/author/index.html"
+    },
+    {
+      "source": "/blog/accountability-map-team-ownership",
+      "destination": "/blog/accountability-map-team-ownership/index.html"
+    },
+    {
+      "source": "/blog/automate-before-you-delegate",
+      "destination": "/blog/automate-before-you-delegate/index.html"
+    },
+    {
+      "source": "/blog/bus-factor-single-points-of-failure",
+      "destination": "/blog/bus-factor-single-points-of-failure/index.html"
+    },
+    {
+      "source": "/blog/business-doesnt-run-without-you",
+      "destination": "/blog/business-doesnt-run-without-you/index.html"
+    },
+    {
+      "source": "/blog/client-onboarding-system",
+      "destination": "/blog/client-onboarding-system/index.html"
+    },
+    {
+      "source": "/blog/communication-stack-team-alignment",
+      "destination": "/blog/communication-stack-team-alignment/index.html"
+    },
+    {
+      "source": "/blog/decision-audit-stop-being-bottleneck",
+      "destination": "/blog/decision-audit-stop-being-bottleneck/index.html"
+    },
+    {
+      "source": "/blog/delegation-not-dumping",
+      "destination": "/blog/delegation-not-dumping/index.html"
+    },
+    {
+      "source": "/blog/documentation-habit-institutional-knowledge",
+      "destination": "/blog/documentation-habit-institutional-knowledge/index.html"
+    },
+    {
+      "source": "/blog/escalation-ladder-decision-independence",
+      "destination": "/blog/escalation-ladder-decision-independence/index.html"
+    },
+    {
+      "source": "/blog/exit-test-owner-independent-business",
+      "destination": "/blog/exit-test-owner-independent-business/index.html"
+    },
+    {
+      "source": "/blog/founders-cant-step-away",
+      "destination": "/blog/founders-cant-step-away/index.html"
+    },
+    {
+      "source": "/blog/hiring-for-systems-not-skills",
+      "destination": "/blog/hiring-for-systems-not-skills/index.html"
+    },
+    {
+      "source": "/blog/how-to-write-sop",
+      "destination": "/blog/how-to-write-sop/index.html"
+    },
+    {
+      "source": "/blog/onboarding-new-hires-systems",
+      "destination": "/blog/onboarding-new-hires-systems/index.html"
+    },
+    {
+      "source": "/blog/process-debt-hidden-cost",
+      "destination": "/blog/process-debt-hidden-cost/index.html"
+    },
+    {
+      "source": "/blog/role-scorecard-hiring-without-you",
+      "destination": "/blog/role-scorecard-hiring-without-you/index.html"
+    },
+    {
+      "source": "/blog/second-in-command-gm-hire",
+      "destination": "/blog/second-in-command-gm-hire/index.html"
+    },
+    {
+      "source": "/blog/sop-that-runs-itself",
+      "destination": "/blog/sop-that-runs-itself/index.html"
+    },
+    {
+      "source": "/blog/systems-scorecard-measuring-operational-independence",
+      "destination": "/blog/systems-scorecard-measuring-operational-independence/index.html"
+    },
+    {
+      "source": "/blog/three-systems-before-scale",
+      "destination": "/blog/three-systems-before-scale/index.html"
+    },
+    {
+      "source": "/blog/training-system-that-runs-itself",
+      "destination": "/blog/training-system-that-runs-itself/index.html"
+    },
+    {
+      "source": "/blog/weekly-ops-review",
+      "destination": "/blog/weekly-ops-review/index.html"
+    },
+    {
+      "source": "/chapters",
+      "destination": "/chapters/index.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact/index.html"
+    },
+    {
+      "source": "/framework",
+      "destination": "/framework/index.html"
+    },
+    {
+      "source": "/resources",
+      "destination": "/resources/index.html"
+    },
+    {
+      "source": "/blog",
+      "destination": "/blog/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-advanced",
+      "destination": "/blog/customer-delivery-advanced/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-checklist",
+      "destination": "/blog/customer-delivery-checklist/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-examples",
+      "destination": "/blog/customer-delivery-examples/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-faq",
+      "destination": "/blog/customer-delivery-faq/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-field-guide",
+      "destination": "/blog/customer-delivery-field-guide/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-implementation",
+      "destination": "/blog/customer-delivery-implementation/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-mistakes",
+      "destination": "/blog/customer-delivery-mistakes/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-questions",
+      "destination": "/blog/customer-delivery-questions/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-red-flags",
+      "destination": "/blog/customer-delivery-red-flags/index.html"
+    },
+    {
+      "source": "/blog/customer-delivery-scorecard",
+      "destination": "/blog/customer-delivery-scorecard/index.html"
+    },
+    {
+      "source": "/blog/delegation-advanced",
+      "destination": "/blog/delegation-advanced/index.html"
+    },
+    {
+      "source": "/blog/delegation-checklist",
+      "destination": "/blog/delegation-checklist/index.html"
+    },
+    {
+      "source": "/blog/delegation-examples",
+      "destination": "/blog/delegation-examples/index.html"
+    },
+    {
+      "source": "/blog/delegation-faq",
+      "destination": "/blog/delegation-faq/index.html"
+    },
+    {
+      "source": "/blog/delegation-field-guide",
+      "destination": "/blog/delegation-field-guide/index.html"
+    },
+    {
+      "source": "/blog/delegation-implementation",
+      "destination": "/blog/delegation-implementation/index.html"
+    },
+    {
+      "source": "/blog/delegation-mistakes",
+      "destination": "/blog/delegation-mistakes/index.html"
+    },
+    {
+      "source": "/blog/delegation-questions",
+      "destination": "/blog/delegation-questions/index.html"
+    },
+    {
+      "source": "/blog/delegation-red-flags",
+      "destination": "/blog/delegation-red-flags/index.html"
+    },
+    {
+      "source": "/blog/delegation-scorecard",
+      "destination": "/blog/delegation-scorecard/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-advanced",
+      "destination": "/blog/financial-visibility-advanced/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-checklist",
+      "destination": "/blog/financial-visibility-checklist/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-examples",
+      "destination": "/blog/financial-visibility-examples/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-faq",
+      "destination": "/blog/financial-visibility-faq/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-field-guide",
+      "destination": "/blog/financial-visibility-field-guide/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-implementation",
+      "destination": "/blog/financial-visibility-implementation/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-mistakes",
+      "destination": "/blog/financial-visibility-mistakes/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-questions",
+      "destination": "/blog/financial-visibility-questions/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-red-flags",
+      "destination": "/blog/financial-visibility-red-flags/index.html"
+    },
+    {
+      "source": "/blog/financial-visibility-scorecard",
+      "destination": "/blog/financial-visibility-scorecard/index.html"
+    },
+    {
+      "source": "/blog/founder-dependency-mistakes",
+      "destination": "/blog/founder-dependency-mistakes/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-advanced",
+      "destination": "/blog/hiring-systems-advanced/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-checklist",
+      "destination": "/blog/hiring-systems-checklist/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-examples",
+      "destination": "/blog/hiring-systems-examples/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-faq",
+      "destination": "/blog/hiring-systems-faq/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-field-guide",
+      "destination": "/blog/hiring-systems-field-guide/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-implementation",
+      "destination": "/blog/hiring-systems-implementation/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-mistakes",
+      "destination": "/blog/hiring-systems-mistakes/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-questions",
+      "destination": "/blog/hiring-systems-questions/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-red-flags",
+      "destination": "/blog/hiring-systems-red-flags/index.html"
+    },
+    {
+      "source": "/blog/hiring-systems-scorecard",
+      "destination": "/blog/hiring-systems-scorecard/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-advanced",
+      "destination": "/blog/meeting-cadence-advanced/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-checklist",
+      "destination": "/blog/meeting-cadence-checklist/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-examples",
+      "destination": "/blog/meeting-cadence-examples/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-faq",
+      "destination": "/blog/meeting-cadence-faq/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-field-guide",
+      "destination": "/blog/meeting-cadence-field-guide/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-implementation",
+      "destination": "/blog/meeting-cadence-implementation/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-mistakes",
+      "destination": "/blog/meeting-cadence-mistakes/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-questions",
+      "destination": "/blog/meeting-cadence-questions/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-red-flags",
+      "destination": "/blog/meeting-cadence-red-flags/index.html"
+    },
+    {
+      "source": "/blog/meeting-cadence-scorecard",
+      "destination": "/blog/meeting-cadence-scorecard/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-advanced",
+      "destination": "/blog/role-clarity-advanced/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-checklist",
+      "destination": "/blog/role-clarity-checklist/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-examples",
+      "destination": "/blog/role-clarity-examples/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-faq",
+      "destination": "/blog/role-clarity-faq/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-field-guide",
+      "destination": "/blog/role-clarity-field-guide/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-implementation",
+      "destination": "/blog/role-clarity-implementation/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-mistakes",
+      "destination": "/blog/role-clarity-mistakes/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-questions",
+      "destination": "/blog/role-clarity-questions/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-red-flags",
+      "destination": "/blog/role-clarity-red-flags/index.html"
+    },
+    {
+      "source": "/blog/role-clarity-scorecard",
+      "destination": "/blog/role-clarity-scorecard/index.html"
+    },
+    {
+      "source": "/blog/scorecards-advanced",
+      "destination": "/blog/scorecards-advanced/index.html"
+    },
+    {
+      "source": "/blog/scorecards-checklist",
+      "destination": "/blog/scorecards-checklist/index.html"
+    },
+    {
+      "source": "/blog/scorecards-examples",
+      "destination": "/blog/scorecards-examples/index.html"
+    },
+    {
+      "source": "/blog/scorecards-faq",
+      "destination": "/blog/scorecards-faq/index.html"
+    },
+    {
+      "source": "/blog/scorecards-field-guide",
+      "destination": "/blog/scorecards-field-guide/index.html"
+    },
+    {
+      "source": "/blog/scorecards-implementation",
+      "destination": "/blog/scorecards-implementation/index.html"
+    },
+    {
+      "source": "/blog/scorecards-mistakes",
+      "destination": "/blog/scorecards-mistakes/index.html"
+    },
+    {
+      "source": "/blog/scorecards-questions",
+      "destination": "/blog/scorecards-questions/index.html"
+    },
+    {
+      "source": "/blog/scorecards-red-flags",
+      "destination": "/blog/scorecards-red-flags/index.html"
+    },
+    {
+      "source": "/blog/scorecards-scorecard",
+      "destination": "/blog/scorecards-scorecard/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-advanced",
+      "destination": "/blog/standard-operating-procedures-advanced/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-checklist",
+      "destination": "/blog/standard-operating-procedures-checklist/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-examples",
+      "destination": "/blog/standard-operating-procedures-examples/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-faq",
+      "destination": "/blog/standard-operating-procedures-faq/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-field-guide",
+      "destination": "/blog/standard-operating-procedures-field-guide/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-implementation",
+      "destination": "/blog/standard-operating-procedures-implementation/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-mistakes",
+      "destination": "/blog/standard-operating-procedures-mistakes/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-questions",
+      "destination": "/blog/standard-operating-procedures-questions/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-red-flags",
+      "destination": "/blog/standard-operating-procedures-red-flags/index.html"
+    },
+    {
+      "source": "/blog/standard-operating-procedures-scorecard",
+      "destination": "/blog/standard-operating-procedures-scorecard/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-advanced",
+      "destination": "/blog/succession-readiness-advanced/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-checklist",
+      "destination": "/blog/succession-readiness-checklist/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-examples",
+      "destination": "/blog/succession-readiness-examples/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-faq",
+      "destination": "/blog/succession-readiness-faq/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-field-guide",
+      "destination": "/blog/succession-readiness-field-guide/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-implementation",
+      "destination": "/blog/succession-readiness-implementation/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-mistakes",
+      "destination": "/blog/succession-readiness-mistakes/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-questions",
+      "destination": "/blog/succession-readiness-questions/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-red-flags",
+      "destination": "/blog/succession-readiness-red-flags/index.html"
+    },
+    {
+      "source": "/blog/succession-readiness-scorecard",
+      "destination": "/blog/succession-readiness-scorecard/index.html"
+    },
+    {
+      "source": "/blog/two-week-vacation-test",
+      "destination": "/blog/two-week-vacation-test/index.html"
+    },
+    {
+      "source": "/blog/owner-dashboard-five-numbers",
+      "destination": "/blog/owner-dashboard-five-numbers/index.html"
+    },
+    {
+      "source": "/blog/transitioning-owner-led-sales",
+      "destination": "/blog/transitioning-owner-led-sales/index.html"
+    },
+    {
+      "source": "/blog/cross-training-coverage-plan",
+      "destination": "/blog/cross-training-coverage-plan/index.html"
+    },
+    {
+      "source": "/resources/process-owner-backup-design",
+      "destination": "/resources/process-owner-backup-design/index.html"
+    },
+    {
+      "source": "/ai-learning/ai-sop-writing-workflow",
+      "destination": "/ai-learning/ai-sop-writing-workflow/index.html"
+    },
+    {
+      "source": "/ai-learning/ai-weekly-business-scorecard",
+      "destination": "/ai-learning/ai-weekly-business-scorecard/index.html"
+    },
+    {
+      "source": "/ai-learning/ai-delegation-and-approval-workflow",
+      "destination": "/ai-learning/ai-delegation-and-approval-workflow/index.html"
+    },
+    {
+      "source": "/ai-learning",
+      "destination": "/ai-learning/index.html"
+    },
+    {
+      "source": "/reading-guide",
+      "destination": "/reading-guide/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/marketing-agencies",
+      "destination": "/workflows/ai-sop-checklists/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/consulting-firms",
+      "destination": "/workflows/ai-sop-checklists/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/software-companies",
+      "destination": "/workflows/ai-sop-checklists/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/ecommerce-brands",
+      "destination": "/workflows/ai-sop-checklists/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/manufacturers",
+      "destination": "/workflows/ai-sop-checklists/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/wholesale-distributors",
+      "destination": "/workflows/ai-sop-checklists/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/construction-companies",
+      "destination": "/workflows/ai-sop-checklists/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/trade-contractors",
+      "destination": "/workflows/ai-sop-checklists/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/salons",
+      "destination": "/workflows/ai-sop-checklists/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/restaurants",
+      "destination": "/workflows/ai-sop-checklists/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/retail-stores",
+      "destination": "/workflows/ai-sop-checklists/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/logistics-companies",
+      "destination": "/workflows/ai-sop-checklists/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/cleaning-companies",
+      "destination": "/workflows/ai-sop-checklists/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/landscaping-companies",
+      "destination": "/workflows/ai-sop-checklists/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/automotive-shops",
+      "destination": "/workflows/ai-sop-checklists/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/fitness-studios",
+      "destination": "/workflows/ai-sop-checklists/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/training-companies",
+      "destination": "/workflows/ai-sop-checklists/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/staffing-agencies",
+      "destination": "/workflows/ai-sop-checklists/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/event-companies",
+      "destination": "/workflows/ai-sop-checklists/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists/architecture-firms",
+      "destination": "/workflows/ai-sop-checklists/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-sop-checklists",
+      "destination": "/workflows/ai-sop-checklists/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/marketing-agencies",
+      "destination": "/workflows/ai-weekly-scorecard/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/consulting-firms",
+      "destination": "/workflows/ai-weekly-scorecard/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/software-companies",
+      "destination": "/workflows/ai-weekly-scorecard/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/ecommerce-brands",
+      "destination": "/workflows/ai-weekly-scorecard/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/manufacturers",
+      "destination": "/workflows/ai-weekly-scorecard/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/wholesale-distributors",
+      "destination": "/workflows/ai-weekly-scorecard/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/construction-companies",
+      "destination": "/workflows/ai-weekly-scorecard/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/trade-contractors",
+      "destination": "/workflows/ai-weekly-scorecard/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/salons",
+      "destination": "/workflows/ai-weekly-scorecard/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/restaurants",
+      "destination": "/workflows/ai-weekly-scorecard/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/retail-stores",
+      "destination": "/workflows/ai-weekly-scorecard/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/logistics-companies",
+      "destination": "/workflows/ai-weekly-scorecard/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/cleaning-companies",
+      "destination": "/workflows/ai-weekly-scorecard/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/landscaping-companies",
+      "destination": "/workflows/ai-weekly-scorecard/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/automotive-shops",
+      "destination": "/workflows/ai-weekly-scorecard/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/fitness-studios",
+      "destination": "/workflows/ai-weekly-scorecard/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/training-companies",
+      "destination": "/workflows/ai-weekly-scorecard/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/staffing-agencies",
+      "destination": "/workflows/ai-weekly-scorecard/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/event-companies",
+      "destination": "/workflows/ai-weekly-scorecard/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard/architecture-firms",
+      "destination": "/workflows/ai-weekly-scorecard/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-weekly-scorecard",
+      "destination": "/workflows/ai-weekly-scorecard/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/marketing-agencies",
+      "destination": "/workflows/ai-delegation-matrix/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/consulting-firms",
+      "destination": "/workflows/ai-delegation-matrix/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/software-companies",
+      "destination": "/workflows/ai-delegation-matrix/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/ecommerce-brands",
+      "destination": "/workflows/ai-delegation-matrix/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/manufacturers",
+      "destination": "/workflows/ai-delegation-matrix/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/wholesale-distributors",
+      "destination": "/workflows/ai-delegation-matrix/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/construction-companies",
+      "destination": "/workflows/ai-delegation-matrix/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/trade-contractors",
+      "destination": "/workflows/ai-delegation-matrix/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/salons",
+      "destination": "/workflows/ai-delegation-matrix/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/restaurants",
+      "destination": "/workflows/ai-delegation-matrix/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/retail-stores",
+      "destination": "/workflows/ai-delegation-matrix/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/logistics-companies",
+      "destination": "/workflows/ai-delegation-matrix/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/cleaning-companies",
+      "destination": "/workflows/ai-delegation-matrix/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/landscaping-companies",
+      "destination": "/workflows/ai-delegation-matrix/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/automotive-shops",
+      "destination": "/workflows/ai-delegation-matrix/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/fitness-studios",
+      "destination": "/workflows/ai-delegation-matrix/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/training-companies",
+      "destination": "/workflows/ai-delegation-matrix/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/staffing-agencies",
+      "destination": "/workflows/ai-delegation-matrix/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/event-companies",
+      "destination": "/workflows/ai-delegation-matrix/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix/architecture-firms",
+      "destination": "/workflows/ai-delegation-matrix/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-delegation-matrix",
+      "destination": "/workflows/ai-delegation-matrix/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/marketing-agencies",
+      "destination": "/workflows/ai-capacity-planning/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/consulting-firms",
+      "destination": "/workflows/ai-capacity-planning/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/software-companies",
+      "destination": "/workflows/ai-capacity-planning/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/ecommerce-brands",
+      "destination": "/workflows/ai-capacity-planning/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/manufacturers",
+      "destination": "/workflows/ai-capacity-planning/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/wholesale-distributors",
+      "destination": "/workflows/ai-capacity-planning/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/construction-companies",
+      "destination": "/workflows/ai-capacity-planning/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/trade-contractors",
+      "destination": "/workflows/ai-capacity-planning/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/salons",
+      "destination": "/workflows/ai-capacity-planning/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/restaurants",
+      "destination": "/workflows/ai-capacity-planning/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/retail-stores",
+      "destination": "/workflows/ai-capacity-planning/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/logistics-companies",
+      "destination": "/workflows/ai-capacity-planning/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/cleaning-companies",
+      "destination": "/workflows/ai-capacity-planning/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/landscaping-companies",
+      "destination": "/workflows/ai-capacity-planning/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/automotive-shops",
+      "destination": "/workflows/ai-capacity-planning/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/fitness-studios",
+      "destination": "/workflows/ai-capacity-planning/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/training-companies",
+      "destination": "/workflows/ai-capacity-planning/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/staffing-agencies",
+      "destination": "/workflows/ai-capacity-planning/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/event-companies",
+      "destination": "/workflows/ai-capacity-planning/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning/architecture-firms",
+      "destination": "/workflows/ai-capacity-planning/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-capacity-planning",
+      "destination": "/workflows/ai-capacity-planning/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/marketing-agencies",
+      "destination": "/workflows/ai-onboarding-checklists/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/consulting-firms",
+      "destination": "/workflows/ai-onboarding-checklists/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/software-companies",
+      "destination": "/workflows/ai-onboarding-checklists/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/ecommerce-brands",
+      "destination": "/workflows/ai-onboarding-checklists/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/manufacturers",
+      "destination": "/workflows/ai-onboarding-checklists/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/wholesale-distributors",
+      "destination": "/workflows/ai-onboarding-checklists/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/construction-companies",
+      "destination": "/workflows/ai-onboarding-checklists/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/trade-contractors",
+      "destination": "/workflows/ai-onboarding-checklists/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/salons",
+      "destination": "/workflows/ai-onboarding-checklists/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/restaurants",
+      "destination": "/workflows/ai-onboarding-checklists/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/retail-stores",
+      "destination": "/workflows/ai-onboarding-checklists/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/logistics-companies",
+      "destination": "/workflows/ai-onboarding-checklists/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/cleaning-companies",
+      "destination": "/workflows/ai-onboarding-checklists/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/landscaping-companies",
+      "destination": "/workflows/ai-onboarding-checklists/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/automotive-shops",
+      "destination": "/workflows/ai-onboarding-checklists/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/fitness-studios",
+      "destination": "/workflows/ai-onboarding-checklists/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/training-companies",
+      "destination": "/workflows/ai-onboarding-checklists/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/staffing-agencies",
+      "destination": "/workflows/ai-onboarding-checklists/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/event-companies",
+      "destination": "/workflows/ai-onboarding-checklists/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists/architecture-firms",
+      "destination": "/workflows/ai-onboarding-checklists/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-onboarding-checklists",
+      "destination": "/workflows/ai-onboarding-checklists/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/marketing-agencies",
+      "destination": "/workflows/ai-quality-sampling/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/consulting-firms",
+      "destination": "/workflows/ai-quality-sampling/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/software-companies",
+      "destination": "/workflows/ai-quality-sampling/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/ecommerce-brands",
+      "destination": "/workflows/ai-quality-sampling/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/manufacturers",
+      "destination": "/workflows/ai-quality-sampling/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/wholesale-distributors",
+      "destination": "/workflows/ai-quality-sampling/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/construction-companies",
+      "destination": "/workflows/ai-quality-sampling/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/trade-contractors",
+      "destination": "/workflows/ai-quality-sampling/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/salons",
+      "destination": "/workflows/ai-quality-sampling/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/restaurants",
+      "destination": "/workflows/ai-quality-sampling/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/retail-stores",
+      "destination": "/workflows/ai-quality-sampling/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/logistics-companies",
+      "destination": "/workflows/ai-quality-sampling/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/cleaning-companies",
+      "destination": "/workflows/ai-quality-sampling/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/landscaping-companies",
+      "destination": "/workflows/ai-quality-sampling/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/automotive-shops",
+      "destination": "/workflows/ai-quality-sampling/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/fitness-studios",
+      "destination": "/workflows/ai-quality-sampling/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/training-companies",
+      "destination": "/workflows/ai-quality-sampling/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/staffing-agencies",
+      "destination": "/workflows/ai-quality-sampling/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/event-companies",
+      "destination": "/workflows/ai-quality-sampling/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling/architecture-firms",
+      "destination": "/workflows/ai-quality-sampling/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-quality-sampling",
+      "destination": "/workflows/ai-quality-sampling/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/marketing-agencies",
+      "destination": "/workflows/ai-escalation-rules/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/consulting-firms",
+      "destination": "/workflows/ai-escalation-rules/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/software-companies",
+      "destination": "/workflows/ai-escalation-rules/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/ecommerce-brands",
+      "destination": "/workflows/ai-escalation-rules/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/manufacturers",
+      "destination": "/workflows/ai-escalation-rules/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/wholesale-distributors",
+      "destination": "/workflows/ai-escalation-rules/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/construction-companies",
+      "destination": "/workflows/ai-escalation-rules/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/trade-contractors",
+      "destination": "/workflows/ai-escalation-rules/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/salons",
+      "destination": "/workflows/ai-escalation-rules/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/restaurants",
+      "destination": "/workflows/ai-escalation-rules/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/retail-stores",
+      "destination": "/workflows/ai-escalation-rules/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/logistics-companies",
+      "destination": "/workflows/ai-escalation-rules/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/cleaning-companies",
+      "destination": "/workflows/ai-escalation-rules/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/landscaping-companies",
+      "destination": "/workflows/ai-escalation-rules/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/automotive-shops",
+      "destination": "/workflows/ai-escalation-rules/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/fitness-studios",
+      "destination": "/workflows/ai-escalation-rules/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/training-companies",
+      "destination": "/workflows/ai-escalation-rules/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/staffing-agencies",
+      "destination": "/workflows/ai-escalation-rules/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/event-companies",
+      "destination": "/workflows/ai-escalation-rules/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules/architecture-firms",
+      "destination": "/workflows/ai-escalation-rules/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-escalation-rules",
+      "destination": "/workflows/ai-escalation-rules/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/marketing-agencies",
+      "destination": "/workflows/ai-meeting-actions/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/consulting-firms",
+      "destination": "/workflows/ai-meeting-actions/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/software-companies",
+      "destination": "/workflows/ai-meeting-actions/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/ecommerce-brands",
+      "destination": "/workflows/ai-meeting-actions/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/manufacturers",
+      "destination": "/workflows/ai-meeting-actions/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/wholesale-distributors",
+      "destination": "/workflows/ai-meeting-actions/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/construction-companies",
+      "destination": "/workflows/ai-meeting-actions/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/trade-contractors",
+      "destination": "/workflows/ai-meeting-actions/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/salons",
+      "destination": "/workflows/ai-meeting-actions/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/restaurants",
+      "destination": "/workflows/ai-meeting-actions/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/retail-stores",
+      "destination": "/workflows/ai-meeting-actions/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/logistics-companies",
+      "destination": "/workflows/ai-meeting-actions/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/cleaning-companies",
+      "destination": "/workflows/ai-meeting-actions/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/landscaping-companies",
+      "destination": "/workflows/ai-meeting-actions/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/automotive-shops",
+      "destination": "/workflows/ai-meeting-actions/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/fitness-studios",
+      "destination": "/workflows/ai-meeting-actions/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/training-companies",
+      "destination": "/workflows/ai-meeting-actions/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/staffing-agencies",
+      "destination": "/workflows/ai-meeting-actions/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/event-companies",
+      "destination": "/workflows/ai-meeting-actions/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions/architecture-firms",
+      "destination": "/workflows/ai-meeting-actions/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-meeting-actions",
+      "destination": "/workflows/ai-meeting-actions/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/marketing-agencies",
+      "destination": "/workflows/ai-hiring-scorecards/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/consulting-firms",
+      "destination": "/workflows/ai-hiring-scorecards/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/software-companies",
+      "destination": "/workflows/ai-hiring-scorecards/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/ecommerce-brands",
+      "destination": "/workflows/ai-hiring-scorecards/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/manufacturers",
+      "destination": "/workflows/ai-hiring-scorecards/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/wholesale-distributors",
+      "destination": "/workflows/ai-hiring-scorecards/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/construction-companies",
+      "destination": "/workflows/ai-hiring-scorecards/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/trade-contractors",
+      "destination": "/workflows/ai-hiring-scorecards/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/salons",
+      "destination": "/workflows/ai-hiring-scorecards/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/restaurants",
+      "destination": "/workflows/ai-hiring-scorecards/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/retail-stores",
+      "destination": "/workflows/ai-hiring-scorecards/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/logistics-companies",
+      "destination": "/workflows/ai-hiring-scorecards/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/cleaning-companies",
+      "destination": "/workflows/ai-hiring-scorecards/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/landscaping-companies",
+      "destination": "/workflows/ai-hiring-scorecards/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/automotive-shops",
+      "destination": "/workflows/ai-hiring-scorecards/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/fitness-studios",
+      "destination": "/workflows/ai-hiring-scorecards/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/training-companies",
+      "destination": "/workflows/ai-hiring-scorecards/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/staffing-agencies",
+      "destination": "/workflows/ai-hiring-scorecards/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/event-companies",
+      "destination": "/workflows/ai-hiring-scorecards/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards/architecture-firms",
+      "destination": "/workflows/ai-hiring-scorecards/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-hiring-scorecards",
+      "destination": "/workflows/ai-hiring-scorecards/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/marketing-agencies",
+      "destination": "/workflows/ai-handoff-checklists/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/consulting-firms",
+      "destination": "/workflows/ai-handoff-checklists/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/software-companies",
+      "destination": "/workflows/ai-handoff-checklists/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/ecommerce-brands",
+      "destination": "/workflows/ai-handoff-checklists/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/manufacturers",
+      "destination": "/workflows/ai-handoff-checklists/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/wholesale-distributors",
+      "destination": "/workflows/ai-handoff-checklists/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/construction-companies",
+      "destination": "/workflows/ai-handoff-checklists/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/trade-contractors",
+      "destination": "/workflows/ai-handoff-checklists/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/salons",
+      "destination": "/workflows/ai-handoff-checklists/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/restaurants",
+      "destination": "/workflows/ai-handoff-checklists/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/retail-stores",
+      "destination": "/workflows/ai-handoff-checklists/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/logistics-companies",
+      "destination": "/workflows/ai-handoff-checklists/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/cleaning-companies",
+      "destination": "/workflows/ai-handoff-checklists/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/landscaping-companies",
+      "destination": "/workflows/ai-handoff-checklists/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/automotive-shops",
+      "destination": "/workflows/ai-handoff-checklists/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/fitness-studios",
+      "destination": "/workflows/ai-handoff-checklists/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/training-companies",
+      "destination": "/workflows/ai-handoff-checklists/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/staffing-agencies",
+      "destination": "/workflows/ai-handoff-checklists/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/event-companies",
+      "destination": "/workflows/ai-handoff-checklists/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists/architecture-firms",
+      "destination": "/workflows/ai-handoff-checklists/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-handoff-checklists",
+      "destination": "/workflows/ai-handoff-checklists/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/marketing-agencies",
+      "destination": "/workflows/ai-process-change-logs/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/consulting-firms",
+      "destination": "/workflows/ai-process-change-logs/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/software-companies",
+      "destination": "/workflows/ai-process-change-logs/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/ecommerce-brands",
+      "destination": "/workflows/ai-process-change-logs/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/manufacturers",
+      "destination": "/workflows/ai-process-change-logs/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/wholesale-distributors",
+      "destination": "/workflows/ai-process-change-logs/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/construction-companies",
+      "destination": "/workflows/ai-process-change-logs/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/trade-contractors",
+      "destination": "/workflows/ai-process-change-logs/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/salons",
+      "destination": "/workflows/ai-process-change-logs/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/restaurants",
+      "destination": "/workflows/ai-process-change-logs/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/retail-stores",
+      "destination": "/workflows/ai-process-change-logs/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/logistics-companies",
+      "destination": "/workflows/ai-process-change-logs/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/cleaning-companies",
+      "destination": "/workflows/ai-process-change-logs/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/landscaping-companies",
+      "destination": "/workflows/ai-process-change-logs/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/automotive-shops",
+      "destination": "/workflows/ai-process-change-logs/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/fitness-studios",
+      "destination": "/workflows/ai-process-change-logs/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/training-companies",
+      "destination": "/workflows/ai-process-change-logs/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/staffing-agencies",
+      "destination": "/workflows/ai-process-change-logs/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/event-companies",
+      "destination": "/workflows/ai-process-change-logs/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs/architecture-firms",
+      "destination": "/workflows/ai-process-change-logs/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-process-change-logs",
+      "destination": "/workflows/ai-process-change-logs/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/marketing-agencies",
+      "destination": "/workflows/ai-founder-independence/marketing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/consulting-firms",
+      "destination": "/workflows/ai-founder-independence/consulting-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/software-companies",
+      "destination": "/workflows/ai-founder-independence/software-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/ecommerce-brands",
+      "destination": "/workflows/ai-founder-independence/ecommerce-brands/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/manufacturers",
+      "destination": "/workflows/ai-founder-independence/manufacturers/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/wholesale-distributors",
+      "destination": "/workflows/ai-founder-independence/wholesale-distributors/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/construction-companies",
+      "destination": "/workflows/ai-founder-independence/construction-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/trade-contractors",
+      "destination": "/workflows/ai-founder-independence/trade-contractors/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/salons",
+      "destination": "/workflows/ai-founder-independence/salons/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/restaurants",
+      "destination": "/workflows/ai-founder-independence/restaurants/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/retail-stores",
+      "destination": "/workflows/ai-founder-independence/retail-stores/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/logistics-companies",
+      "destination": "/workflows/ai-founder-independence/logistics-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/cleaning-companies",
+      "destination": "/workflows/ai-founder-independence/cleaning-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/landscaping-companies",
+      "destination": "/workflows/ai-founder-independence/landscaping-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/automotive-shops",
+      "destination": "/workflows/ai-founder-independence/automotive-shops/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/fitness-studios",
+      "destination": "/workflows/ai-founder-independence/fitness-studios/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/training-companies",
+      "destination": "/workflows/ai-founder-independence/training-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/staffing-agencies",
+      "destination": "/workflows/ai-founder-independence/staffing-agencies/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/event-companies",
+      "destination": "/workflows/ai-founder-independence/event-companies/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence/architecture-firms",
+      "destination": "/workflows/ai-founder-independence/architecture-firms/index.html"
+    },
+    {
+      "source": "/workflows/ai-founder-independence",
+      "destination": "/workflows/ai-founder-independence/index.html"
+    },
+    {
+      "source": "/workflows",
+      "destination": "/workflows/index.html"
+    },
+    {
+      "source": "/blog/delegation-exception-decision-log",
+      "destination": "/blog/delegation-exception-decision-log/index.html"
+    },
+    {
+      "source": "/blog/sop-backup-person-test",
+      "destination": "/blog/sop-backup-person-test/index.html"
+    },
+    {
+      "source": "/resources/action-log-audit",
+      "destination": "/resources/action-log-audit/index.html"
+    },
+    {
+      "source": "/resources/team-decision-brief",
+      "destination": "/resources/team-decision-brief/index.html"
+    },
+    {
+      "source": "/resources/bounded-process-trial",
+      "destination": "/resources/bounded-process-trial/index.html"
+    },
+    {
+      "source": "/resources/work-in-progress-and-throughput",
+      "destination": "/resources/work-in-progress-and-throughput/index.html"
+    },
+    {
+      "source": "/resources/local-html-task-aid",
+      "destination": "/resources/local-html-task-aid/index.html"
+    },
+    {
+      "source": "/resources/read-unfinished-work-age",
+      "destination": "/resources/read-unfinished-work-age/index.html"
+    }
+  ]
 }
