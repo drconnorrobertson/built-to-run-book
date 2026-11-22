@@ -346,6 +346,126 @@
       "permanent": true
     },
     {
+      "source": "/blog/customer-delivery-field-guide",
+      "destination": "/blog/customer-delivery-checklist#readiness",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-field-guide/",
+      "destination": "/blog/customer-delivery-checklist#readiness",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-field-guide/index.html",
+      "destination": "/blog/customer-delivery-checklist#readiness",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-mistakes",
+      "destination": "/blog/customer-delivery-checklist#exceptions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-mistakes/",
+      "destination": "/blog/customer-delivery-checklist#exceptions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-mistakes/index.html",
+      "destination": "/blog/customer-delivery-checklist#exceptions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-questions",
+      "destination": "/blog/customer-delivery-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-questions/",
+      "destination": "/blog/customer-delivery-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-questions/index.html",
+      "destination": "/blog/customer-delivery-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-scorecard",
+      "destination": "/blog/customer-delivery-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-scorecard/",
+      "destination": "/blog/customer-delivery-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-scorecard/index.html",
+      "destination": "/blog/customer-delivery-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-red-flags",
+      "destination": "/blog/customer-delivery-examples#comparison",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-red-flags/",
+      "destination": "/blog/customer-delivery-examples#comparison",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-red-flags/index.html",
+      "destination": "/blog/customer-delivery-examples#comparison",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-implementation",
+      "destination": "/blog/customer-delivery-checklist#closeout",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-implementation/",
+      "destination": "/blog/customer-delivery-checklist#closeout",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-implementation/index.html",
+      "destination": "/blog/customer-delivery-checklist#closeout",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-advanced",
+      "destination": "/blog/customer-delivery-examples#scope-change",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-advanced/",
+      "destination": "/blog/customer-delivery-examples#scope-change",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-advanced/index.html",
+      "destination": "/blog/customer-delivery-examples#scope-change",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-faq",
+      "destination": "/blog/customer-delivery-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-faq/",
+      "destination": "/blog/customer-delivery-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/customer-delivery-faq/index.html",
+      "destination": "/blog/customer-delivery-checklist#questions",
+      "permanent": true
+    },
+    {
       "source": "/index.html",
       "destination": "/",
       "permanent": true
@@ -501,11 +621,6 @@
       "permanent": true
     },
     {
-      "source": "/blog/customer-delivery-advanced/index.html",
-      "destination": "/blog/customer-delivery-advanced",
-      "permanent": true
-    },
-    {
       "source": "/blog/customer-delivery-checklist/index.html",
       "destination": "/blog/customer-delivery-checklist",
       "permanent": true
@@ -513,41 +628,6 @@
     {
       "source": "/blog/customer-delivery-examples/index.html",
       "destination": "/blog/customer-delivery-examples",
-      "permanent": true
-    },
-    {
-      "source": "/blog/customer-delivery-faq/index.html",
-      "destination": "/blog/customer-delivery-faq",
-      "permanent": true
-    },
-    {
-      "source": "/blog/customer-delivery-field-guide/index.html",
-      "destination": "/blog/customer-delivery-field-guide",
-      "permanent": true
-    },
-    {
-      "source": "/blog/customer-delivery-implementation/index.html",
-      "destination": "/blog/customer-delivery-implementation",
-      "permanent": true
-    },
-    {
-      "source": "/blog/customer-delivery-mistakes/index.html",
-      "destination": "/blog/customer-delivery-mistakes",
-      "permanent": true
-    },
-    {
-      "source": "/blog/customer-delivery-questions/index.html",
-      "destination": "/blog/customer-delivery-questions",
-      "permanent": true
-    },
-    {
-      "source": "/blog/customer-delivery-red-flags/index.html",
-      "destination": "/blog/customer-delivery-red-flags",
-      "permanent": true
-    },
-    {
-      "source": "/blog/customer-delivery-scorecard/index.html",
-      "destination": "/blog/customer-delivery-scorecard",
       "permanent": true
     },
     {
@@ -2399,44 +2479,12 @@
       "destination": "/blog/index.html"
     },
     {
-      "source": "/blog/customer-delivery-advanced",
-      "destination": "/blog/customer-delivery-advanced/index.html"
-    },
-    {
       "source": "/blog/customer-delivery-checklist",
       "destination": "/blog/customer-delivery-checklist/index.html"
     },
     {
       "source": "/blog/customer-delivery-examples",
       "destination": "/blog/customer-delivery-examples/index.html"
-    },
-    {
-      "source": "/blog/customer-delivery-faq",
-      "destination": "/blog/customer-delivery-faq/index.html"
-    },
-    {
-      "source": "/blog/customer-delivery-field-guide",
-      "destination": "/blog/customer-delivery-field-guide/index.html"
-    },
-    {
-      "source": "/blog/customer-delivery-implementation",
-      "destination": "/blog/customer-delivery-implementation/index.html"
-    },
-    {
-      "source": "/blog/customer-delivery-mistakes",
-      "destination": "/blog/customer-delivery-mistakes/index.html"
-    },
-    {
-      "source": "/blog/customer-delivery-questions",
-      "destination": "/blog/customer-delivery-questions/index.html"
-    },
-    {
-      "source": "/blog/customer-delivery-red-flags",
-      "destination": "/blog/customer-delivery-red-flags/index.html"
-    },
-    {
-      "source": "/blog/customer-delivery-scorecard",
-      "destination": "/blog/customer-delivery-scorecard/index.html"
     },
     {
       "source": "/blog/delegation-advanced",
