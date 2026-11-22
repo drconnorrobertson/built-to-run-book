@@ -211,6 +211,141 @@
       "permanent": true
     },
     {
+      "source": "/blog/standard-operating-procedures-field-guide",
+      "destination": "/blog/standard-operating-procedures-checklist#scope",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-field-guide/",
+      "destination": "/blog/standard-operating-procedures-checklist#scope",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-field-guide/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist#scope",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-mistakes",
+      "destination": "/blog/standard-operating-procedures-checklist#mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-mistakes/",
+      "destination": "/blog/standard-operating-procedures-checklist#mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-mistakes/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist#mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-questions",
+      "destination": "/blog/standard-operating-procedures-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-questions/",
+      "destination": "/blog/standard-operating-procedures-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-questions/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-examples",
+      "destination": "/blog/standard-operating-procedures-checklist#examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-examples/",
+      "destination": "/blog/standard-operating-procedures-checklist#examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-examples/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist#examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-scorecard",
+      "destination": "/blog/standard-operating-procedures-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-scorecard/",
+      "destination": "/blog/standard-operating-procedures-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-scorecard/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist#checklist",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-red-flags",
+      "destination": "/blog/standard-operating-procedures-checklist#mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-red-flags/",
+      "destination": "/blog/standard-operating-procedures-checklist#mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-red-flags/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist#mistakes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-implementation",
+      "destination": "/blog/standard-operating-procedures-checklist#test",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-implementation/",
+      "destination": "/blog/standard-operating-procedures-checklist#test",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-implementation/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist#test",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-advanced",
+      "destination": "/blog/standard-operating-procedures-checklist#versions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-advanced/",
+      "destination": "/blog/standard-operating-procedures-checklist#versions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-advanced/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist#versions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-faq",
+      "destination": "/blog/standard-operating-procedures-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-faq/",
+      "destination": "/blog/standard-operating-procedures-checklist#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/standard-operating-procedures-faq/index.html",
+      "destination": "/blog/standard-operating-procedures-checklist#questions",
+      "permanent": true
+    },
+    {
       "source": "/index.html",
       "destination": "/",
       "permanent": true
@@ -721,53 +856,8 @@
       "permanent": true
     },
     {
-      "source": "/blog/standard-operating-procedures-advanced/index.html",
-      "destination": "/blog/standard-operating-procedures-advanced",
-      "permanent": true
-    },
-    {
       "source": "/blog/standard-operating-procedures-checklist/index.html",
       "destination": "/blog/standard-operating-procedures-checklist",
-      "permanent": true
-    },
-    {
-      "source": "/blog/standard-operating-procedures-examples/index.html",
-      "destination": "/blog/standard-operating-procedures-examples",
-      "permanent": true
-    },
-    {
-      "source": "/blog/standard-operating-procedures-faq/index.html",
-      "destination": "/blog/standard-operating-procedures-faq",
-      "permanent": true
-    },
-    {
-      "source": "/blog/standard-operating-procedures-field-guide/index.html",
-      "destination": "/blog/standard-operating-procedures-field-guide",
-      "permanent": true
-    },
-    {
-      "source": "/blog/standard-operating-procedures-implementation/index.html",
-      "destination": "/blog/standard-operating-procedures-implementation",
-      "permanent": true
-    },
-    {
-      "source": "/blog/standard-operating-procedures-mistakes/index.html",
-      "destination": "/blog/standard-operating-procedures-mistakes",
-      "permanent": true
-    },
-    {
-      "source": "/blog/standard-operating-procedures-questions/index.html",
-      "destination": "/blog/standard-operating-procedures-questions",
-      "permanent": true
-    },
-    {
-      "source": "/blog/standard-operating-procedures-red-flags/index.html",
-      "destination": "/blog/standard-operating-procedures-red-flags",
-      "permanent": true
-    },
-    {
-      "source": "/blog/standard-operating-procedures-scorecard/index.html",
-      "destination": "/blog/standard-operating-procedures-scorecard",
       "permanent": true
     },
     {
@@ -2593,44 +2683,8 @@
       "destination": "/blog/scorecards-scorecard/index.html"
     },
     {
-      "source": "/blog/standard-operating-procedures-advanced",
-      "destination": "/blog/standard-operating-procedures-advanced/index.html"
-    },
-    {
       "source": "/blog/standard-operating-procedures-checklist",
       "destination": "/blog/standard-operating-procedures-checklist/index.html"
-    },
-    {
-      "source": "/blog/standard-operating-procedures-examples",
-      "destination": "/blog/standard-operating-procedures-examples/index.html"
-    },
-    {
-      "source": "/blog/standard-operating-procedures-faq",
-      "destination": "/blog/standard-operating-procedures-faq/index.html"
-    },
-    {
-      "source": "/blog/standard-operating-procedures-field-guide",
-      "destination": "/blog/standard-operating-procedures-field-guide/index.html"
-    },
-    {
-      "source": "/blog/standard-operating-procedures-implementation",
-      "destination": "/blog/standard-operating-procedures-implementation/index.html"
-    },
-    {
-      "source": "/blog/standard-operating-procedures-mistakes",
-      "destination": "/blog/standard-operating-procedures-mistakes/index.html"
-    },
-    {
-      "source": "/blog/standard-operating-procedures-questions",
-      "destination": "/blog/standard-operating-procedures-questions/index.html"
-    },
-    {
-      "source": "/blog/standard-operating-procedures-red-flags",
-      "destination": "/blog/standard-operating-procedures-red-flags/index.html"
-    },
-    {
-      "source": "/blog/standard-operating-procedures-scorecard",
-      "destination": "/blog/standard-operating-procedures-scorecard/index.html"
     },
     {
       "source": "/blog/succession-readiness-advanced",
