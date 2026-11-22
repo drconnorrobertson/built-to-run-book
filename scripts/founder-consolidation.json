@@ -1,0 +1,14 @@
+{
+  "owner": "/blog/founder-dependency-mistakes",
+  "redirects": {
+    "/blog/founder-dependency-field-guide": "/blog/founder-dependency-mistakes#diagnostic",
+    "/blog/founder-dependency-checklist": "/blog/founder-dependency-mistakes#checklist",
+    "/blog/founder-dependency-questions": "/blog/founder-dependency-mistakes#questions",
+    "/blog/founder-dependency-examples": "/blog/founder-dependency-mistakes#example",
+    "/blog/founder-dependency-scorecard": "/blog/founder-dependency-mistakes#diagnostic",
+    "/blog/founder-dependency-red-flags": "/blog/founder-dependency-mistakes#mistakes",
+    "/blog/founder-dependency-implementation": "/blog/founder-dependency-mistakes#implementation",
+    "/blog/founder-dependency-advanced": "/blog/founder-dependency-mistakes#limits",
+    "/blog/founder-dependency-faq": "/blog/founder-dependency-mistakes#questions"
+  }
+}

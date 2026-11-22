@@ -1,9 +1,10 @@
 """Reject conflicting canonical hosts or sitemap URLs before publication."""
 from pathlib import Path
+import sys
 from html.parser import HTMLParser
 from urllib.parse import urlsplit
 import xml.etree.ElementTree as ET
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(sys.argv[1]).resolve() if len(sys.argv)>1 else Path(__file__).resolve().parents[1]
 HOST = 'www.builttorunbook.net'
 class Page(HTMLParser):
     def __init__(self):
