@@ -33,11 +33,12 @@ for p in OUT.rglob('*.html'):
   n=visit(d)
   return m[1]+json.dumps(n,separators=(',',':'))+m[3] if n!=d else m[0]
  n=re.sub(r'(<script[^>]*type=["\']application/ld\+json["\'][^>]*>)(.*?)(</script>)',rewrite_json,n,flags=re.S)
+ for old_label,new_label in {'Role Clarity: Field Guide': 'Role Clarity: Role Charter Checklist', 'Role Clarity: Common Mistakes': 'Role Clarity: Conflicting Instructions', 'Role Clarity: Questions to Ask': 'Role Clarity: Charter Questions', 'Role Clarity: Worked Example': 'Role Clarity: Fictional Boundary Examples', 'Role Clarity: Decision Scorecard': 'Role Clarity: Role Charter Checklist', 'Role Clarity: Red Flags': 'Role Clarity: Conflicting Instructions', 'Role Clarity: Implementation Plan': 'Role Clarity: Test One Work Cycle', 'Role Clarity: Advanced Considerations': 'Role Clarity: Conflicting Instructions', 'Role Clarity: Practical FAQ': 'Role Clarity: Charter Questions'}.items():n=n.replace(old_label,new_label)
  n=n.replace('Browse all 100 guides','Browse the learning library')
  if n!=s:p.write_text(n);changed.append(str(p.relative_to(OUT)))
 platform=json.loads((ROOT/'vercel.json').read_text());assert platform['cleanUrls'] is False
 rewrites={x['source']:x['destination'] for x in platform['rewrites']};owners=[x.text for x in ET.parse(OUT/'sitemap.xml').iter() if x.tag.endswith('loc')]
-assert len(owners)==376
+assert len(owners)==367
 for u in owners:
  route=urlsplit(u).path;physical=rewrites[route];assert '..' not in physical and (OUT/physical.lstrip('/')).is_file()
  assert re.search(r'<link\b[^>]*rel="canonical"[^>]*href="'+re.escape(u)+'"', (OUT/physical.lstrip('/')).read_text())
