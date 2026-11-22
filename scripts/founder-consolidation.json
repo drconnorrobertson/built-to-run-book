@@ -9,6 +9,19 @@
     "/blog/founder-dependency-red-flags": "/blog/founder-dependency-mistakes#mistakes",
     "/blog/founder-dependency-implementation": "/blog/founder-dependency-mistakes#implementation",
     "/blog/founder-dependency-advanced": "/blog/founder-dependency-mistakes#limits",
-    "/blog/founder-dependency-faq": "/blog/founder-dependency-mistakes#questions"
-  }
+    "/blog/founder-dependency-faq": "/blog/founder-dependency-mistakes#questions",
+    "/blog/standard-operating-procedures-field-guide": "/blog/standard-operating-procedures-checklist#scope",
+    "/blog/standard-operating-procedures-mistakes": "/blog/standard-operating-procedures-checklist#mistakes",
+    "/blog/standard-operating-procedures-questions": "/blog/standard-operating-procedures-checklist#questions",
+    "/blog/standard-operating-procedures-examples": "/blog/standard-operating-procedures-checklist#examples",
+    "/blog/standard-operating-procedures-scorecard": "/blog/standard-operating-procedures-checklist#checklist",
+    "/blog/standard-operating-procedures-red-flags": "/blog/standard-operating-procedures-checklist#mistakes",
+    "/blog/standard-operating-procedures-implementation": "/blog/standard-operating-procedures-checklist#test",
+    "/blog/standard-operating-procedures-advanced": "/blog/standard-operating-procedures-checklist#versions",
+    "/blog/standard-operating-procedures-faq": "/blog/standard-operating-procedures-checklist#questions"
+  },
+  "retainedOwners": [
+    "/blog/founder-dependency-mistakes",
+    "/blog/standard-operating-procedures-checklist"
+  ]
 }
